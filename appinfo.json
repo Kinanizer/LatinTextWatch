@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Courtesy Computer Tech",
+    "longName": "Latin Text Watch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/download (1).png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Latin Text Watch W/ Date",
+    "uuid": "4a6e04ad-132a-48ab-b165-7ff4a99872d3",
+    "versionCode": 1,
+    "versionLabel": "1.7",
+    "watchapp": {
+        "watchface": true
+    }
+}
